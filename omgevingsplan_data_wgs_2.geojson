@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "omgevingsplan_data_wgs_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "woning_totaal": 2000, "woning_gereserveerd": 658, "woning_gerealiseerd": 127, "kantoor_totaal": 3500, "kantoor_gerealiseerd": 1298, "kantoor_gereserveerd": 215, "groen_totaal": 1250, "groen_gereserveerd": 950, "groen_gerealiseerd": 100 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.919376203592396, 52.383842555690016 ], [ 4.925672842990173, 52.38449119617399 ], [ 4.926271787295533, 52.382607544376704 ], [ 4.919721258769007, 52.381887031124414 ], [ 4.919241653259317, 52.383416613916353 ], [ 4.919471888049326, 52.383559326844434 ], [ 4.919376203592396, 52.383842555690016 ] ] ] } },
+{ "type": "Feature", "properties": { "woning_totaal": 550, "woning_gereserveerd": 230, "woning_gerealiseerd": 0, "kantoor_totaal": 1200, "kantoor_gerealiseerd": 320, "kantoor_gereserveerd": 459, "groen_totaal": 600, "groen_gereserveerd": 350, "groen_gerealiseerd": 20 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.927430804206464, 52.384810001187432 ], [ 4.928606212318902, 52.383198000808051 ], [ 4.931567689307433, 52.383663202111784 ], [ 4.931471936149484, 52.383960620580993 ], [ 4.930354209578423, 52.384480986356451 ], [ 4.927539029542415, 52.385547798335338 ], [ 4.927125572484711, 52.385191684713611 ], [ 4.927430804206464, 52.384810001187432 ] ] ] } }
+]
+}
